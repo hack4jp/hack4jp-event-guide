@@ -247,3 +247,7 @@ Hack For Japanがイベントと称するものは「何かを動くものを作
         3. 可能な限り、イベント終了後に懇親会を開きましょう。イベント中はチーム内でのコミュニケーションが主体となるため、他チームの参加者同士の交流の機会は懇親会のほうが期待できます。参加者同士の交流が育まれることで、継続した活動や緩やかなネットワークが広がり、イベントの効果がより高まっていきます。
         4. イベント終了後は運営メンバーで良かった点、悪かった点を振り返り、次回のイベントに反映されるように記録に残しておきましょう。
 
+<p>この文書は、クリエイティブ・コモンズライセンスの下に提供されています。<br />
+著作者の表示・非営利・CCライセンス継承の条件に従い、この文書を再利用していただけます。<br />
+<br />
+<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja" imageanchor="1" target="_blank"><img border="0" height="50" src="http://www.hack4.jp/_/rsrc/1347535713144/RelatedInfo/rassist/recommendation/Cc-by-nc-sa_icon_small.png?height=50&amp;width=140" width="140" /></a></p></div></td></tr></tbody></table>
